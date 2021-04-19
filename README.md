@@ -15,6 +15,7 @@ To build this mod yourself you will need:
 2. The source code for this mod.
 3. (Optional) Git, to get the code to the desktop the nerd way.
 
+Now the instructions
 
 1. Open Powershell/CMD
 2. cd to the folder you downloaded the source

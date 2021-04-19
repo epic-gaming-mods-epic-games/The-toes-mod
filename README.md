@@ -21,6 +21,6 @@ Now the instructions
 2. cd to the folder you downloaded the source
 3. Type or copy: ./gradlew.bat build --no-daemon
 4. Hit enter.
-5. Now go inside of The-toes-mod/build/libs to get the version
+5. Now go inside of The-toes-mod/build/libs to get the version, get the one WITHOUT -dev or -sources unless you want them, of course.
 6. Add to Fabric mods folder
 

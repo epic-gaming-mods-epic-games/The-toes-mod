@@ -8,12 +8,13 @@ This mod is in version 0.1.0 or alpha, so there will be bugs
 
 # Building
 
-To build this mod yourself you will need:
-Java 8 (or higher)
-The source code for the mod
-(optional) Git (to clone the code of the mod to your desktop) 
-
 It is pretty simple because this mod uses Gradle to build.
+
+To build this mod yourself you will need:
+1. Java 8 or higher: https://java.com/en/download/
+2. The source code for this mod.
+3. (Optional) Git, to get the code to the desktop the nerd way.
+
 
 1. Open Powershell/CMD
 2. cd to the folder you downloaded the source
